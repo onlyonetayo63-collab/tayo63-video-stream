@@ -1,0 +1,15 @@
+- Create a responsive landing page for Tayo63media with a prominent header, video display area, and sections for featured content.
+- Implement user authentication:
+    - Sign up/Login with Google OAuth.
+    - Sign up/Login with email and password.
+- Ensure compliance with Google AdSense policies.
+- Develop video playback functionality.
+- Implement a database to store user information and video metadata.
+- Deploy the website.
+- Test the website thoroughly.
+- Write all code in TypeScript and use React with Vite.
+- Use Tailwind CSS for styling.
+- Use Shadcn UI for pre-built components.
+- Use Supabase for the backend (database and authentication).
+- Ensure the website is named Tayo63media.
+- Make sure the website is functioning well and launch it.
